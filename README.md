@@ -1,4 +1,4 @@
 # victorofficial
  
- he still underdevelopded
+still underdevelopded
  
