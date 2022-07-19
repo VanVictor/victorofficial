@@ -1,6 +1,6 @@
 /*
 
-TemplateMo 559 Zay Shop
+TemplateMo 559 Success Hub
 
 https://templatemo.com/tm-559-zay-shop
 
