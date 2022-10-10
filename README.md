@@ -1,4 +1,4 @@
-# victorofficial
+# Victor Peace Ogbonna
 ### Hi there, I'm Victor👋 AI Enthusiast, Data Scientist, Full-Stack Developer and Researcher👨‍💻! 👋
 
 - 🔭 I’m currently working with Zenith Bnak PLC as a Retail Banking Specialist.
